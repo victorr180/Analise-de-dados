@@ -1,3 +1,5 @@
+
+
 # Projeto Victor
 
 Análise de uma carteira de crédito com 250 contratos, feita inteiramente em Excel.
@@ -26,3 +28,8 @@ Crédito Consignado, Crédito Pessoal, Crédito Imobiliário, Cartão de Crédit
 ## Objetivo
 
 Projeto criado como prática pessoal na preparação para a área de dados.
+
+
+
+<img width="1903" height="883" alt="dashboard" src="https://github.com/user-attachments/assets/aa322d2f-f41d-44de-8bb3-411cf4f19367" />
+
