@@ -10,7 +10,8 @@ Como está o desempenho da carteira de crédito hoje: qual o volume total, quem 
 
 ## 🖼️ Preview
 
-*(Adicione aqui o print do dashboard — pode arrastar a imagem direto pro README no GitHub)*
+<img width="1093" height="607" alt="power bl" src="https://github.com/user-attachments/assets/236f8273-98a9-4c35-9f83-d0a825dd380b" />
+
 
 `![Dashboard](caminho/para/a/imagem.png)`
 
@@ -41,29 +42,11 @@ Como está o desempenho da carteira de crédito hoje: qual o volume total, quem 
 - Valor Emprestado por Risco
 - Clientes por Status de Pagamento (Em Dia, Atraso 30d, Atraso 60d, Inadimplente)
 
-## 🔎 Principais achados
-
-- PREENCHER: por exemplo, qual tipo de crédito concentra mais volume, qual região tem mais risco, qual % da carteira está inadimplente
-- PREENCHER: algum padrão sazonal encontrado no gráfico de evolução mensal
-
 ## 🛠️ Ferramentas usadas
 
 - Power BI Desktop (Power Query, modelagem, DAX, visualização)
 - Excel (base de dados original)
 
-## 🚀 Próximos passos
 
-- [ ] Separar os dados em modelo estrela (fato + dimensões)
-- [ ] Criar medidas DAX explícitas (ex: % de inadimplência, variação vs. mês anterior)
-- [ ] Adicionar segmentação de dados (filtros de ano, região e risco)
-- [ ] Publicar no Power BI Service
 
-## 📁 Como usar
 
-1. Baixe o arquivo `.pbix` deste repositório
-2. Abra no Power BI Desktop
-3. Explore os filtros e visuais interativamente
-
----
-
-📫 PREENCHER: seu contato / LinkedIn
