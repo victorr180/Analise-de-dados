@@ -4,10 +4,10 @@ Repositório com dois projetos de análise da mesma carteira de crédito, pratic
 
 ## Projetos
 
-### 📊 [excel/](./excel)
+### 📊 [Excel/](./Excel)
 Análise feita em Excel: base de dados de 250 contratos de crédito, tabelas dinâmicas cruzando risco, tipo de crédito, região e gerente, e um dashboard interativo com gráficos e filtros (slicers).
 
-### 📈 [powerbi/](./powerbi)
+### 📈 [PowerBI/](./PowerBI
 A mesma análise recriada em Power BI, praticando modelagem de dados e criação de dashboard nessa ferramenta.
 
 ## Objetivo
